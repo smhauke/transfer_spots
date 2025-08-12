@@ -1,4 +1,4 @@
-This script can be used to copy the location of spots from one Imaris image to another. They will retain their size, but data contained in the spots (i.e. intensity data) will not be copied. This script should work on 4D images, although I've only used it on static 3D images (z-stacks from a confocal).
+This script can be used to copy the location of spots from one Imaris image to another. They will retain their size and other characteristics, but data contained by the spots (i.e. signal intensity data) will not be copied. This script should work on 4D images, although I've only used it on static 3D images (z-stacks from a confocal).
 
 Requires:
 - Imaris v9.0.1 (may work with other versions as well)
