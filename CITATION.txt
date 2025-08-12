@@ -1,4 +1,4 @@
 ## Citation
 If you use this software in your research, please cite:
-[Shelby Hauke] ([2025]). [Transfer Spots]. GitHub repository: https://github.com/smhauke/transfer_spots DOI: 10.5281/zenodo.16817262
+Shelby Hauke (2025). Transfer Spots. GitHub repository: https://github.com/smhauke/transfer_spots DOI: 10.5281/zenodo.16817262
 
